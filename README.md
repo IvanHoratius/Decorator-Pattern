@@ -1,5 +1,5 @@
 # Decorator-Pattern
 
-Compile Program javac StarbuzzCoffee.java
-Run program java StarbuzzCoffee
+1. Compile Program javac StarbuzzCoffee.java
+2. Run program java StarbuzzCoffee
 
